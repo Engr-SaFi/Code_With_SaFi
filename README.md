@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Safi</h1>
+<h1 align="center">Hi 👋, I'm SaFi</h1>
 <h3 align="center">Computer Science Student | Aspiring Data Engineer</h3>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ### 📌 Featured Projects
 
-<!-- Replace these examples with links to your actual repositories. -->
+
 - 🌡️ **Temperature Converter** — A web project built with HTML, CSS, and JavaScript.
 - 🧮 **Calculator** — A simple calculator project for practicing web development.
 - 🗄️ **MySQL Database Projects** — Practice projects focused on SQL and database design.
@@ -47,7 +47,7 @@
 ### 🤝 Connect With Me
 
 - GitHub: [@Code_With_SaFi](https://github.com/Code_With_SaFi)
-- Email: esmat@gmail.com
+- Email: esmatsafi002@gmail.com
 
 ---
 
